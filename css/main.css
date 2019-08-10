@@ -72,7 +72,9 @@ nav a.over span {
 nav .hi-story {
     display: none;
 }
-
+.sub-menu .back {
+    display: none;
+}
 /* sub-menu */
 .sub-menu {
     display: none;
